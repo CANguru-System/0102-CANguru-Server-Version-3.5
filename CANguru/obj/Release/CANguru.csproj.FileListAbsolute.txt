@@ -130,3 +130,14 @@ C:\CANguru-Drive\OneDrive\21 Stepper\02-CANguru-Server Version 3.5\CANguru\obj\R
 C:\CANguru-Drive\OneDrive\21 Stepper\02-CANguru-Server Version 3.5\CANguru\obj\Release\CANguru.csproj.CopyComplete
 C:\CANguru-Drive\OneDrive\21 Stepper\02-CANguru-Server Version 3.5\CANguru\obj\Release\CANguru.exe
 C:\CANguru-Drive\OneDrive\21 Stepper\02-CANguru-Server Version 3.5\CANguru\obj\Release\CANguru.pdb
+Z:\21 Stepper\0102-CANguru-Server-Version-3.5\CANguru\bin\Release\CANguru.exe.config
+Z:\21 Stepper\0102-CANguru-Server-Version-3.5\CANguru\bin\Release\CANguru.exe
+Z:\21 Stepper\0102-CANguru-Server-Version-3.5\CANguru\bin\Release\CANguru.pdb
+Z:\21 Stepper\0102-CANguru-Server-Version-3.5\CANguru\obj\Release\CANguru.csproj.AssemblyReference.cache
+Z:\21 Stepper\0102-CANguru-Server-Version-3.5\CANguru\obj\Release\CANguruX.Form1.resources
+Z:\21 Stepper\0102-CANguru-Server-Version-3.5\CANguru\obj\Release\UDP_ClntSrvr.Properties.Resources.resources
+Z:\21 Stepper\0102-CANguru-Server-Version-3.5\CANguru\obj\Release\CANguru.csproj.GenerateResource.cache
+Z:\21 Stepper\0102-CANguru-Server-Version-3.5\CANguru\obj\Release\CANguru.csproj.CoreCompileInputs.cache
+Z:\21 Stepper\0102-CANguru-Server-Version-3.5\CANguru\obj\Release\CANguru.csproj.CopyComplete
+Z:\21 Stepper\0102-CANguru-Server-Version-3.5\CANguru\obj\Release\CANguru.exe
+Z:\21 Stepper\0102-CANguru-Server-Version-3.5\CANguru\obj\Release\CANguru.pdb
