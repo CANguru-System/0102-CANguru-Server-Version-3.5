@@ -21,7 +21,7 @@ namespace CANguruX
             { "gbsstat", @"\gleisbild.sr2", "1"},
             { "fsstat ", @"\fahrstrassen.sr2", "0"},
         };
-        static public string path = @"c:\CANguru";
+        static public string path = @"CANguru";
         static public string ininame = @"\CANguru.ini";
         static public string saveTxtname = @"\CANguru.txt";
         static public string cs2name = @"\lokomotive.cs2";
